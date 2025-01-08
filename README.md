@@ -1,16 +1,62 @@
-## Hi there 👋
+# Welcome to [ramhee98's](https://github.com/ramhee98) Profile! 👋  
 
-<!--
-**ramhee98/ramhee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+👨‍💻 **Software Developer | Systems Administrator | Content Creator**  
+🎓 **Moodle Administrator** – Creating seamless e-learning experiences for students and educators  
 
-Here are some ideas to get you started:
+💡 **Passionate About:**  
+- Technology, Virtualization, Network Security, and E-Learning Platforms  
+- Exploring AI, cybersecurity, blockchain, and gamification in education  
+- **Advocating for Free and Open-Source Software (FOSS)** – because technology should be accessible, transparent, and community-driven  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Founder of  
+🌐 **[ramhee.com](https://ramhee.com):**  
+- Sharing insights on tech innovation, education, and mindful technology use  
+
+🌐 **[technium.ch](https://technium.ch):**  
+- Tutorials, tools, and resources for tech enthusiasts  
+
+---
+
+## Infrastructure Expertise
+- **Virtualization & Containerization Platforms:** Proxmox VE, LXC Containers, Docker, Docker Compose, VirtualBox
+- **Networking:** Ubiquiti UniFi, VLAN Configuration, FRITZ!Box Routers
+- **Operating Systems:** Debian, Ubuntu, MacOS, *Windows (begrudgingly)*
+- **Automation and Scripting:** Bash Scripting, Cron Jobs
+- **Security:** pfSense Firewall, Nmap, Fail2Ban
+
+---
+
+## Support My Work 💛  
+Hi there! 😊 If you’ve found my work valuable and want to support me, your contribution means the world to me! 🌟  
+
+Every donation helps me:  
+- Develop new projects  
+- Share free resources and tutorials with the community  
+- Cover server costs and keep creating content  
+
+**No amount is too small – even a cup of coffee fuels my passion!** ☕  
+
+**Bitcoin Address:** `coming soon`  
+**Scan to Donate:**  
+`coming soon`  
+
+**Why Bitcoin?**  
+By accepting Bitcoin, I aim to promote decentralized technologies and encourage innovation in digital finance. Supporting me with Bitcoin not only helps my work but also aligns with the vision of empowering individuals through decentralized solutions.  
+
+100% of donations are used to fuel project development, cover server costs, keep the coffee flowing, and create free educational content. Thank you for your generosity and for being an essential part of my journey! 🙌☕ 
+
+
+---
+
+## Let's Collaborate!  
+🤝 Open to partnerships in:  
+- System administration and self-hosting projects  
+- E-learning platform development and optimization  
+- Technical writing and content creation  
+
+---
+
+*"Empowering individuals and organizations to embrace innovation in technology and education."*

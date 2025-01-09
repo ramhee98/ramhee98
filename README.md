@@ -59,4 +59,10 @@ By accepting Bitcoin, I aim to promote decentralized technologies and encourage 
 
 ---
 
+## Find Me Online  
+- [**LinkedIn**](https://www.linkedin.com/in/ramonheeb/)
+- [**Email**](https://ramhee.ch/contact)
+
+---
+
 *"Empowering individuals and organizations to embrace innovation in technology and education."*

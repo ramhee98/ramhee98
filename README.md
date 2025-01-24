@@ -39,9 +39,9 @@ Every donation helps me:
 
 **No amount is too small – even a cup of coffee fuels my passion!** ☕  
 
-**Bitcoin Address:** `coming soon`  
+**Bitcoin Address:** `bc1qqy0yluu0ffefxh2mky7mv0q5pejw978rsx9sfr`  
 **Scan to Donate:**  
-`coming soon`  
+<img src="https://github.com/ramhee98/ramhee98/blob/main/bc1qqy0yluu0ffefxh2mky7mv0q5pejw978rsx9sfr.png" width="200">
 
 **Why Bitcoin?**  
 By accepting Bitcoin, I aim to promote decentralized technologies and encourage innovation in digital finance. Supporting me with Bitcoin not only helps my work but also aligns with the vision of empowering individuals through decentralized solutions.  

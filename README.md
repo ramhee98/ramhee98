@@ -1,7 +1,7 @@
 # Welcome to [ramhee98's](https://github.com/ramhee98) Profile! 👋  
 
 ## About Me  
-👨‍💻 **Software Developer | Systems Administrator | Content Creator**  
+👨‍💻 **Software Developer | System Administrator | Content Creator**  
 🎓 **Moodle Administrator** – Creating seamless e-learning experiences for students and educators  
 
 💡 **Passionate About:**  

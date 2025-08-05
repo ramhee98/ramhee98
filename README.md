@@ -2,7 +2,7 @@
 
 ## About Me  
 👨‍💻 **Software Developer | System Administrator | Content Creator**  
-🎓 **Moodle Administrator** – Creating seamless e-learning experiences for students and educators  
+🎓 **E-Learning Application Manager** – Creating seamless e-learning experiences for students and educators  
 
 💡 **Passionate About:**  
 - Technology, Virtualization, Network Security, and E-Learning Platforms  

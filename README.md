@@ -12,11 +12,11 @@
 ---
 
 ## Founder of  
-🌐 **[ramhee.com](https://ramhee.com):**  
-- Sharing insights on tech innovation, education, and mindful technology use  
-
 🌐 **[technium.ch](https://technium.ch):**  
-- Tutorials, tools, and resources for tech enthusiasts  
+- Tutorials, tools, reviews, and resources for tech enthusiasts
+
+🎙️ **[buendnertalk.ch](https://buendnertalk.ch):**  
+- Bündnertalk is a Swiss German podcast featuring honest, unscripted conversations about identity, personal growth and the real stories behind everyday lives.
 
 ---
 

@@ -16,7 +16,7 @@
 - Tutorials, tools, reviews, and resources for tech enthusiasts
 
 🎙️ **[buendnertalk.ch](https://buendnertalk.ch):**  
-- Bündnertalk is a Swiss German podcast featuring honest, unscripted conversations about identity, personal growth and the real stories behind everyday lives.
+- Bündnertalk is a Swiss German podcast with unscripted conversations shaped by a question neither of us sees coming.
 
 ---
 
